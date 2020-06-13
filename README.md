@@ -1,2 +1,2 @@
 # Simple-Sass_Page
-Simple Page using Sass
+Simple Page using Sass and BEM
